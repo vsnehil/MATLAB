@@ -1,0 +1,4 @@
+x1=input("Enter x-coordinate of point P");
+y1=input("Enter y-coordinate of point P");
+x2=input("Enter x-coordinate of point Q");
+y2=input("Enter y-coordinate of point Q");
